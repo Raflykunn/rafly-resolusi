@@ -1,4 +1,11 @@
 rencana memperdalam bahasa pemrograman 
 
--php 
--javascript
+1. php 
+#framework php
+ -laravel
+
+2. javascript
+#framework javascript
+ -vue.js
+#library javascript
+ -react.js
