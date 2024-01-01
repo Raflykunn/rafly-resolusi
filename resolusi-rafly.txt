@@ -3,3 +3,6 @@ resolusi dari rafly untuk kedepan yaitu
 - memperdalam pengetahuan di git dan github
 - bisa kolaborasi di github dengan baik
 - usahakan berusaha memecahkanan masalah dan tidak terlalu terkena tutorial hell
+
+
+
